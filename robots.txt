@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prostyropor-star.github.io/companies-hiring-now/sitemap.xml
